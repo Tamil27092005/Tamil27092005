@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tamil selvan 
-- 👀 I’m interested in Emerging and futuristic Technologies, Innovations, Hackathans.
+- 👀 I’m interested in Emerging and futuristic Technologies, Innovations.
 - 🌱 I’m currently learning b.tech in Cse core.
-- 💞️ I’m looking to collaborate on Mini projects,Hackathans to boost my Resume .
+- 💞️ I’m looking to collaborate on Mini projects,Hackathons, Internship to boost my Resume .
   
 
 <!---
